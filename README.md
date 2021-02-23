@@ -4,7 +4,7 @@ fibonacci.py - Python code to display fibonacci series
 
 Dockerfile - Docker file to run the python code.
 
-### Steps to run the CF stack
+### Steps to run the script
 * First clone the repo on the machine where docker running
 * Run the below command to create docker image
   - docker image -t fib:1.0 .
